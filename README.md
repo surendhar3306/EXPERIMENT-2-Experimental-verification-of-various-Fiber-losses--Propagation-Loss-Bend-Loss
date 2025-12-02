@@ -1,4 +1,4 @@
-# EXPERIMENT-2-OPTICAL-COMMUNICATION
+[# EXPERIMENT-2-OPTICAL-COMMUNICATION
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
 **Aim:**  
@@ -36,3 +36,4 @@ V1/V2 = e [ -a (L1+L2 ) ]
 Attenuation and bending loss characteristics verified.
 
 ---
+](https://github.com/surendhar3306/EXPERIMENT-2-Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss)
